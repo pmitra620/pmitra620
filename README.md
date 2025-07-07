@@ -68,9 +68,9 @@ I am a detail-oriented **Business Intelligence Developer** with 4+ years of expe
 
 ### 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Purushottam%20Mitra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pmitra620/)](https://www.linkedin.com/in/pmitra620/)  
+**LinkedIn:**(https://www.linkedin.com/in/pmitra620/)  
 📧 **Email:** pmitra620@gmail.com  
-🔗 [GitHub Profile](https://github.com/purushottammitra)  
+🔗**GitHub Profile:**(https://github.com/pmitra620)
 
 ---
 
