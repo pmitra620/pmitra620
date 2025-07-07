@@ -24,7 +24,7 @@ I am a detail-oriented **Business Intelligence Developer** with 4+ years of expe
 ### 💼 Professional Experience
 
 - **Power BI Instructor – Kanaklata Vidyarthi Bhawan**  
-  📍 *Assam, India* | 🗓️ *Apr 2022 – May 2025*  
+  📍 *Assam, India* | 🗓️ *Apr 2022 – Present*  
   ▪️ Delivered customized BI curriculum and mentored 20+ learners  
   ▪️ Achieved 95% job placement success rate through project-based learning  
   ▪️ Promoted self-service BI culture with real-world Power BI use cases
