@@ -79,6 +79,4 @@ I am a detail-oriented **Business Intelligence Developer** with 4+ years of expe
 I used to teach how to build buildings — now I teach how to build dashboards!  
 From bricks to BI, my foundation has always been numbers 🧱 ➡ 📊
 
-!--
-**pmitra620/pmitra620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
